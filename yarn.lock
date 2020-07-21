@@ -3846,10 +3846,10 @@ error-inject@^1.0.0:
   resolved "https://registry.yarnpkg.com/error-inject/-/error-inject-1.0.0.tgz#e2b3d91b54aed672f309d950d154850fa11d4f37"
   integrity sha1-4rPZG1Su1nLzCdlQ0VSFD6EdTzc=
 
-error-mapper@^1.0.4:
-  version "1.0.4"
-  resolved "https://registry.yarnpkg.com/error-mapper/-/error-mapper-1.0.4.tgz#9cd3dc687ecb55bcbe986a5e4711475dd2a68614"
-  integrity sha512-7/873cy18/lSWm0OWNfFFwhFOTDLs3d4NUXk4LtFVzPkoYSC2ObVS8yYJ9W1QXHn6ZUhR/QikKomyxVwh7rjdQ==
+error-mapper@1.0.8:
+  version "1.0.8"
+  resolved "https://registry.yarnpkg.com/error-mapper/-/error-mapper-1.0.8.tgz#cf0a2fdce2acfddc71d155f322161af871b4e27a"
+  integrity sha512-7bh5m7+zZZL4tFyPUJmNYtvogIKyBwylRQiCCpa5wlmjmlXIg3YLaSYi9JH9ER4gXv7aQg0+HfbaplXsIJBAxQ==
   dependencies:
     axios "^0.19.2"
 

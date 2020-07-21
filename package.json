@@ -20,7 +20,7 @@
     "bootstrap": "^4.4.1",
     "cross-env": "^5.2.0",
     "element-ui": "^2.4.11",
-    "error-mapper": "^1.0.4",
+    "error-mapper": "1.0.8",
     "jquery": "^3.4.1",
     "koa": "^2.6.2",
     "lodash": "^4.17.15",

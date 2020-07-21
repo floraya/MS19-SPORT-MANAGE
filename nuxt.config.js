@@ -5,9 +5,6 @@ const customEnv = process.env.CUSTOM_ENV
 require('dotenv').config({ path: customEnv ? `.env.${customEnv}` : '.env' })
 
 module.exports = {
-  server: {
-    port: 3333
-  },
   env: {
     ...process.env
   },
@@ -59,7 +56,6 @@ module.exports = {
   ** Global CSS
   */
   css: [
-    'element-ui/lib/theme-chalk/index.css',
     './assets/main.scss'
   ],
   /*
