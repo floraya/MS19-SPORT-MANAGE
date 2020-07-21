@@ -1,10 +1,10 @@
 <template>
-  <div>
+  <el-main>
     <h1>Hi</h1>
     <el-button type="warning">
       一個按鈕
     </el-button>
-  </div>
+  </el-main>
 </template>
 
 <script>

@@ -1,3 +1,3 @@
 <template>
-  <header>我是HEADER</header>
+  <el-header>Header</el-header>
 </template>

@@ -1,3 +1,3 @@
 <template>
-  <header>我是SIDEBAR</header>
+  <el-aside width="200px">Aside</el-aside>
 </template>
